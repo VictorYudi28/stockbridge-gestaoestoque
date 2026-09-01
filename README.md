@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">
+  📦<br>StockBridge
+</h1>
 
-## Getting Started
+<p>O objetivo do projeto é oferecer uma solução simples e eficiente para a <strong>gestão de estoque</strong> em pequenas e médias empresas, substituindo controles manuais e planilhas por uma plataforma moderna e escalável.</p>
 
-First, run the development server:
+<p>🌐 Deploy do projeto: </p>
+<p><a href="https://stockbridge-gamma.vercel.app/" target="_blank">https://stockbridge-gamma.vercel.app/</a></p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💼 Tecnologias utilizadas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Ferramentas e tecnologias utilizadas no desenvolvimento do sistema:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Next.js com React e App Router
+- TailwindCSS
+- Node.js (Next API Routes)
+- MongoDB Atlas
+- Vercel
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ⚙️ Funcionalidades
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Login e cadastro de usuários  
+- Dashboard com indicadores de estoque e pedidos em trânsito  
+- Tabela de produtos com status de disponibilidade (em estoque, baixo, esgotado)  
+- Operações de cadastro, edição e exclusão de itens  
+- Integração com banco de dados em nuvem  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📊 Status do Projeto
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+O protótipo funcional encontra-se aproximadamente **80% concluído**.  
+As principais funcionalidades já estão implementadas e integradas.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Próximas etapas incluem:
+- Refinamento da interface  
+- Implementação de feedback visual mais intuitivo  
+- Aplicação de Inteligência Artificial para previsão de demanda e rupturas  
+
+---
+
+## 📈 Objetivo
+
+Validar o MVP em ambiente real, oferecendo uma solução prática para empresas que necessitam de maior eficiência na gestão de estoque, e evoluir em direção a um produto comercial completo.
