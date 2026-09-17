@@ -7,17 +7,21 @@
 <p>🌐 Deploy do projeto: </p>
 <p><a href="https://stockbridge-gamma.vercel.app/" target="_blank">https://stockbridge-gamma.vercel.app/</a></p>
 
+<p><strong>Credenciais de acesso para avaliação:</strong><br>
+Login: <code>admin@stockbridge.com</code><br>
+Senha: <code>123456</code></p>
+
 ---
 
 ## 💼 Tecnologias utilizadas
 
 Ferramentas e tecnologias utilizadas no desenvolvimento do sistema:
 
-- Next.js com React e App Router
-- TailwindCSS
-- Node.js (Next API Routes)
-- MongoDB Atlas
-- Vercel
+- Next.js com React e App Router  
+- TailwindCSS  
+- Node.js (Next API Routes)  
+- MongoDB Atlas  
+- Vercel  
 
 ---
 
@@ -46,3 +50,4 @@ Próximas etapas incluem:
 ## 📈 Objetivo
 
 Validar o MVP em ambiente real, oferecendo uma solução prática para empresas que necessitam de maior eficiência na gestão de estoque, e evoluir em direção a um produto comercial completo.
+
